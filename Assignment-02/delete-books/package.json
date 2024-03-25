@@ -1,0 +1,14 @@
+{
+  "name": "delete-books",
+  "version": "1.0.0",
+  "description": "Assignment 2 Delete-Books",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Abdulmuheez",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.19.1"
+  }
+}

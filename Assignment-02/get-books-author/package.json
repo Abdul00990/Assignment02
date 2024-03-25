@@ -1,0 +1,15 @@
+{
+  "dependencies": {
+    "http": "^0.0.1-security"
+  },
+  "scripts": {
+    "start": "node server.js"
+  },
+  "name": "get-books-author",
+  "version": "1.0.0",
+  "description": "Assignment 2 Get Books Author",
+  "main": "server.js",
+  "devDependencies": {},
+  "author": "Abdulmuheez",
+  "license": "ISC"
+}
